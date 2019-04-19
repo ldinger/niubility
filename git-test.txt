@@ -5,7 +5,24 @@ public class   Fucking(){
  int a  = 123; 
 
 
+public void Fucking(){
+  
+  
+
+}
 
 
+public void show(){
+
+ System.out.pringln( MD );
+
+}
+
+
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccc
 
 }
