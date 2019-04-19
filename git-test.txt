@@ -1,0 +1,11 @@
+public class   Fucking(){
+
+ static final String MD = "MD"
+
+ int a  = 123; 
+
+
+
+
+
+}
