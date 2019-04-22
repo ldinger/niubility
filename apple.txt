@@ -5,4 +5,7 @@ fucking apple
  fuck 
  fuck 
  fuced ~~
-分支----branch-hot   
+分支----branch-hot 
+
+
+远程创建的分支  
